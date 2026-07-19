@@ -2,9 +2,9 @@
 Marco Antonio Colocho | Bboy Michael </a></h1>
 <h3 align="center">A passionate Developer from San José, Costa Roca 🇨🇷</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&base=1000" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-mcolocho&base=1000" alt="100rabhcsmc" /> </p>
 
-<p align="left"> <a href="https://fidelitas.academia.edu/MarcoColocho" target="blank"><img src="https://play.google.com/store/apps/details?id=app.bboymichael.breakdanceuno" alt="bboymichael" /></a> </p>
+<p align="left"> <a href="https://fidelitas.academia.edu/MarcoColocho" target="blank"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEhtIwrdEqjOPzC3NgiprErEs0sMHPMcCkWdPmMSWs1e-5AHhYszneCtAdkvCO9y3vbp5j-JT0y77DRzGbLsl7xClxsfdGJSAPlz1YiokauIOug5XHY3fgRWM29udGajSR3K6wGEpj4FSt-Z-gAGkvjTReTW9fzmuYzXI-_asaCfEenIoqb0rtudN1IEo0Vk=s1080)" alt="bboymichael" /></a> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://scbweb.com.mx/wp-content/uploads/sites/4/2022/09/Desarrollo-1.gif">
