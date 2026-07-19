@@ -2,7 +2,7 @@
 Marco Antonio Colocho | Bboy Michael </a></h1>
 <h3 align="center">A passionate Developer from San José, Costa Roca 🇨🇷</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-mcolocho&base=1000" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-mcolocho&base=1000" alt="bboymichael" /> </p>
 
 <p align="left"> <a href="https://fidelitas.academia.edu/MarcoColocho" target="blank"><img height="120" width="120"src="https://blogger.googleusercontent.com/img/a/AVvXsEhtIwrdEqjOPzC3NgiprErEs0sMHPMcCkWdPmMSWs1e-5AHhYszneCtAdkvCO9y3vbp5j-JT0y77DRzGbLsl7xClxsfdGJSAPlz1YiokauIOug5XHY3fgRWM29udGajSR3K6wGEpj4FSt-Z-gAGkvjTReTW9fzmuYzXI-_asaCfEenIoqb0rtudN1IEo0Vk=s1080" alt="bboymichael" /></a> </p>
 
@@ -17,11 +17,11 @@ Marco Antonio Colocho | Bboy Michael </a></h1>
 
 - 📝 Regularmente escribo y comparto Artículos  en: [Academia.edu](https://fidelitas.academia.edu/MarcoColocho)
 
-- 💬 Ask me about **HTML o Desarrollo móvil**
+- 💬 Pregúntame sobre: **HTML o Desarrollo móvil**
 
-- 📫 How to reach me **marcocolocho@gmail.com**
+- 📫 Cómo contactarme: **marcocolocho@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -29,13 +29,11 @@ Marco Antonio Colocho | Bboy Michael </a></h1>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/marco-antonio-colocho-rivera-574b2192/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+			<img src="https://img.icons8.com/?size=50&id=67570&format=png&color=000000)"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/mcolocho/mcolocho">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+			<img src="https://img.icons8.com/?size=50&id=iEBcQcM9rnZ9&format=png&color=000000"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/bboymichael_">
+			<img src="https://img.icons8.com/?size=50&id=YtpeVQhQ8USm&format=png&color=000000"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
