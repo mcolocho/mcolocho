@@ -4,7 +4,7 @@ Marco Antonio Colocho | Bboy Michael </a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-mcolocho&base=1000" alt="100rabhcsmc" /> </p>
 
-<p align="left"> <a href="https://fidelitas.academia.edu/MarcoColocho" target="blank"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEhtIwrdEqjOPzC3NgiprErEs0sMHPMcCkWdPmMSWs1e-5AHhYszneCtAdkvCO9y3vbp5j-JT0y77DRzGbLsl7xClxsfdGJSAPlz1YiokauIOug5XHY3fgRWM29udGajSR3K6wGEpj4FSt-Z-gAGkvjTReTW9fzmuYzXI-_asaCfEenIoqb0rtudN1IEo0Vk=s1080" alt="bboymichael" /></a> </p>
+<p align="left"> <a href="https://fidelitas.academia.edu/MarcoColocho" target="blank"><img align="left" top="20" height="20" width="400"src="https://blogger.googleusercontent.com/img/a/AVvXsEhtIwrdEqjOPzC3NgiprErEs0sMHPMcCkWdPmMSWs1e-5AHhYszneCtAdkvCO9y3vbp5j-JT0y77DRzGbLsl7xClxsfdGJSAPlz1YiokauIOug5XHY3fgRWM29udGajSR3K6wGEpj4FSt-Z-gAGkvjTReTW9fzmuYzXI-_asaCfEenIoqb0rtudN1IEo0Vk=s1080" alt="bboymichael" /></a> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://scbweb.com.mx/wp-content/uploads/sites/4/2022/09/Desarrollo-1.gif">
@@ -28,13 +28,11 @@ Marco Antonio Colocho | Bboy Michael </a></h1>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/marco-antonio-colocho-rivera-574b2192/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/mcolocho/mcolocho">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
+	
 					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
