@@ -11,7 +11,7 @@ Breakdance Freestyle Music (Mobile App): Diseñé, desarrollé y publiqué una a
 <p align="left"> <a href="https://fidelitas.academia.edu/MarcoColocho" target="blank"><img height="120" width="120"src="https://blogger.googleusercontent.com/img/a/AVvXsEhtIwrdEqjOPzC3NgiprErEs0sMHPMcCkWdPmMSWs1e-5AHhYszneCtAdkvCO9y3vbp5j-JT0y77DRzGbLsl7xClxsfdGJSAPlz1YiokauIOug5XHY3fgRWM29udGajSR3K6wGEpj4FSt-Z-gAGkvjTReTW9fzmuYzXI-_asaCfEenIoqb0rtudN1IEo0Vk=s1080" alt="bboymichael" /></a> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://scbweb.com.mx/wp-content/uploads/sites/4/2022/09/Desarrollo-1.gif">
+  <img align="right" top="500" height="300" width="350" alt="GIF" src="https://scbweb.com.mx/wp-content/uploads/sites/4/2022/09/Desarrollo-1.gif">
 </a>
 
 
@@ -25,6 +25,10 @@ Breakdance Freestyle Music (Mobile App): Diseñé, desarrollé y publiqué una a
 
 - 📫 Cómo contactarme: **marcocolocho@gmail.com**
 
+✍️ Publicaciones y Comunidad:
+Artículos Académicos: Comparto investigaciones, guías y tutoriales técnicos sobre infraestructura web y desarrollo en plataformas como Academia.edu y blogs académicos especializados.
+
+Google Local Guides (Nivel 9): Colaborador de alto nivel en la comunidad global de Google, aportando activamente al mapeo, análisis de entornos urbanos e infraestructura local.
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
