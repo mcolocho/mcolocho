@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Soy <a href="https:www.linkedin.com/in/marco-antonio-colocho-rivera-574b2192/" target="blank"> Marco Antonio Colocho | Bboy Michael</a></h1>
 <h3 align="center">Ingeniero de Sistemas enfocado en el desarrollo de soluciones lógicas, eficientes y desplegables.
 Me apasiona conectar la tecnología con la creación de contenido digital y herramientas de optimización.
-Apasionado del entorno tech, geek y del análisis de datos desde San José, Costa Rica 🇨🇷</br>
+Apasionado del entorno tech, geek y del análisis de datos desde San José, Costa Rica 🇨🇷</br></br>
 🚀 Proyectos Destacados:
 Breakdance Freestyle Music (Mobile App): Diseñé, desarrollé y publiqué una aplicación móvil en la Google Play Store enfocada en la curación de ritmos urbanos, logrando alcanzar más de 10,000 descargas y manteniendo su optimización constante.
 </h3>
