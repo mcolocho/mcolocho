@@ -4,10 +4,10 @@ Marco Antonio Colocho | Bboy Michael </a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-mcolocho&base=1000" alt="100rabhcsmc" /> </p>
 
-<p align="left"> <a href="https://fidelitas.academia.edu/MarcoColocho" target="blank"><img align="left" top="20" height="20" width="400"src="https://blogger.googleusercontent.com/img/a/AVvXsEhtIwrdEqjOPzC3NgiprErEs0sMHPMcCkWdPmMSWs1e-5AHhYszneCtAdkvCO9y3vbp5j-JT0y77DRzGbLsl7xClxsfdGJSAPlz1YiokauIOug5XHY3fgRWM29udGajSR3K6wGEpj4FSt-Z-gAGkvjTReTW9fzmuYzXI-_asaCfEenIoqb0rtudN1IEo0Vk=s1080" alt="bboymichael" /></a> </p>
+<p align="left"> <a href="https://fidelitas.academia.edu/MarcoColocho" target="blank"><img height="120" width="120"src="https://blogger.googleusercontent.com/img/a/AVvXsEhtIwrdEqjOPzC3NgiprErEs0sMHPMcCkWdPmMSWs1e-5AHhYszneCtAdkvCO9y3vbp5j-JT0y77DRzGbLsl7xClxsfdGJSAPlz1YiokauIOug5XHY3fgRWM29udGajSR3K6wGEpj4FSt-Z-gAGkvjTReTW9fzmuYzXI-_asaCfEenIoqb0rtudN1IEo0Vk=s1080" alt="bboymichael" /></a> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://scbweb.com.mx/wp-content/uploads/sites/4/2022/09/Desarrollo-1.gif">
+  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://scbweb.com.mx/wp-content/uploads/sites/4/2022/09/Desarrollo-1.gif">
 </a>
 
 
