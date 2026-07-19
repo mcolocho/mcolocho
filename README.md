@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Soy <a href="https:www.linkedin.com/in/marco-antonio-colocho-rivera-574b2192/" target="blank">
+<h1 align="center">Hi 👋, Soy <a href="https:www.linkedin.com/in/marco-antonio-colocho-rivera-574b2192/" target="_blank">
 Marco Antonio Colocho | Bboy Michael </a></h1>
 <h3 align="center">A passionate Developer from San José, Costa Roca 🇨🇷</h3>
 
@@ -34,10 +34,10 @@ Marco Antonio Colocho | Bboy Michael </a></h1>
 			<img src="https://img.icons8.com/?size=50&id=iEBcQcM9rnZ9&format=png&color=000000"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/bboymichael_">
 			<img src="https://img.icons8.com/?size=50&id=YtpeVQhQ8USm&format=png&color=000000"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://play.google.com/store/apps/details?id=app.bboymichael.breakdanceuno">
+			<img src="https://img.icons8.com/?size=50&id=n1ITMd9hmQP7&format=png&color=000000" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.google.com/maps/contrib/117323051646109790419/reviews/@12.5604131,-88.2080496,7z/data=!4m3!8m2!3m1!1e1?entry=ttu&g_ep=EgoyMDI2MDcxNS4wIKXMDSoASAFQAw%3D%3D">
+				<img src="https://img.icons8.com/?size=50&id=xt0xIC1nYCRm&format=png&color=000000" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
@@ -48,7 +48,7 @@ Marco Antonio Colocho | Bboy Michael </a></h1>
 
 <!-- BLOG-POST-LIST:START -->
 
--
+- [Download the Breakdance Freestyle Music App](https://play.google.com/store/apps/details?id=app.bboymichael.breakdanceuno)
 -
 - 
 <!-- BLOG-POST-LIST:END -->
