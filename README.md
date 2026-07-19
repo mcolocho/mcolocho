@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, Soy <a href="https:www.linkedin.com/in/marco-antonio-colocho-rivera-574b2192/" target="blank"> Marco Antonio Colocho | Bboy Michael</a></h1>
-<h3 align="center">A passionate Developer from San José, Costa Roca 🇨🇷</h3>
+<h3 align="center">Ingeniero de Sistemas enfocado en el desarrollo de soluciones lógicas, eficientes y desplegables.
+Me apasiona conectar la tecnología con la creación de contenido digital y herramientas de optimización.
+Apasionado del entorno tech, geek y del análisis de datos desde San José, Costa Rica 🇨🇷</br>
+🚀 Proyectos Destacados:
+Breakdance Freestyle Music (Mobile App): Diseñé, desarrollé y publiqué una aplicación móvil en la Google Play Store enfocada en la curación de ritmos urbanos, logrando alcanzar más de 10,000 descargas y manteniendo su optimización constante.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-mcolocho&base=1000" alt="bboymichael" /> </p>
 
@@ -14,7 +19,7 @@
 
 - 🤝 Disponible para freelancing.
 
-- 📝 Regularmente escribo y comparto Artículos  en: [Academia.edu](https://fidelitas.academia.edu/MarcoColocho)
+- 📝 Regularmente escribo y comparto artículos  en: [Academia.edu](https://fidelitas.academia.edu/MarcoColocho)
 
 - 💬 Pregúntame sobre: **HTML o Desarrollo móvil**
 
@@ -37,8 +42,7 @@
 			<img src="https://img.icons8.com/?size=50&id=n1ITMd9hmQP7&format=png&color=000000" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.google.com/maps/contrib/117323051646109790419/reviews/@12.9474218,-88.2773461,6.25z/data=!4m3!8m2!3m1!1e1?entry=ttu&g_ep=EgoyMDI2MDcxNS4wIKXMDSoASAFQAw%3D%3D">
 				<img src="https://img.icons8.com/?size=50&id=xt0xIC1nYCRm&format=png&color=000000" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+		
       </div>
 
 </p>
